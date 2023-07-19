@@ -38,10 +38,7 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Data Augmentation, Handling imbalance in the data using augmentor and Batch Normalization techniques helped in improving model performance
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -54,10 +51,8 @@ The data set contains the following diseases:
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+- This project is an Upgrad assignment
 
 
 ## Contact
